@@ -401,9 +401,10 @@ footer{
     }
 
     footer{
-        height: 50rem;
+        height: auto;
         flex-direction: column;
         margin-top: -60px;
+        padding-bottom: 30px;
     }
 
     .footer_div1{
